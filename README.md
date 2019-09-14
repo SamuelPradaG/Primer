@@ -1,4 +1,4 @@
-# Repositorio Universidad
+# Universidad
 Samuel Prada
 
 Cómo subir archivos:                                                                                                                       
